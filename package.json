@@ -1,0 +1,22 @@
+{
+  "name": "ssr-ts-cli",
+  "version": "1.0.4",
+  "description": "react ssr typescript cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ssr": "./bin/ssr.js"
+  },
+  "repository": {},
+  "author": "baozi",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "child_process": "^1.0.2",
+    "commander": "^5.1.0",
+    "inquirer": "^7.2.0",
+    "ora": "^4.0.4"
+  }
+}
